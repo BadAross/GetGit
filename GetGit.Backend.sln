@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GetGit.Core", "GetGit.Core", "{F186CBBA-0C4F-4AE7-9C79-26FDB3E849BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GetGit.Infrastructure", "GetGit.Infrastructure", "{2C408095-6582-4C52-9383-90DB2A1F360E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GetGit.Presentation", "GetGit.Presentation", "{52EAB222-CA38-441F-BA52-E80784F2EC6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetGit.Application", "GetGit.Application\GetGit.Application.csproj", "{218A5E29-D17B-4F22-8B26-7FF557D33C80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetGit.Domain", "GetGit.Domain\GetGit.Domain.csproj", "{08CFDCE6-B9D0-4BF3-AD03-76243FB995B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetGit.Persistance", "GetGit.Persistance\GetGit.Persistance.csproj", "{1FCD3FD1-770C-4BF2-B9F1-B3D04CA70DC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetGit.WebApi", "GetGit.WebApi\GetGit.WebApi.csproj", "{358FC2A6-E308-4521-B8DC-66034E1C6306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218A5E29-D17B-4F22-8B26-7FF557D33C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218A5E29-D17B-4F22-8B26-7FF557D33C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218A5E29-D17B-4F22-8B26-7FF557D33C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218A5E29-D17B-4F22-8B26-7FF557D33C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CFDCE6-B9D0-4BF3-AD03-76243FB995B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CFDCE6-B9D0-4BF3-AD03-76243FB995B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CFDCE6-B9D0-4BF3-AD03-76243FB995B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CFDCE6-B9D0-4BF3-AD03-76243FB995B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCD3FD1-770C-4BF2-B9F1-B3D04CA70DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCD3FD1-770C-4BF2-B9F1-B3D04CA70DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCD3FD1-770C-4BF2-B9F1-B3D04CA70DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCD3FD1-770C-4BF2-B9F1-B3D04CA70DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358FC2A6-E308-4521-B8DC-66034E1C6306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358FC2A6-E308-4521-B8DC-66034E1C6306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358FC2A6-E308-4521-B8DC-66034E1C6306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358FC2A6-E308-4521-B8DC-66034E1C6306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{218A5E29-D17B-4F22-8B26-7FF557D33C80} = {F186CBBA-0C4F-4AE7-9C79-26FDB3E849BA}
+		{08CFDCE6-B9D0-4BF3-AD03-76243FB995B0} = {F186CBBA-0C4F-4AE7-9C79-26FDB3E849BA}
+		{1FCD3FD1-770C-4BF2-B9F1-B3D04CA70DC4} = {2C408095-6582-4C52-9383-90DB2A1F360E}
+		{358FC2A6-E308-4521-B8DC-66034E1C6306} = {52EAB222-CA38-441F-BA52-E80784F2EC6D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845AF708-1D2C-4129-8359-467BEB029EA2}
+	EndGlobalSection
+EndGlobal

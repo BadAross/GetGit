@@ -1,0 +1,220 @@
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\appsettings.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.exe
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.deps.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.runtimeconfig.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\AutoMapper.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Application.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Domain.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Persistance.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Application.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Persistance.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Domain.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.AssemblyReference.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.AssemblyInfoInputs.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.AssemblyInfo.cs
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.CoreCompileInputs.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.GetGit.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GetGit.WebApi.props
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GetGit.WebApi.props
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GetGit.WebApi.props
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\scopedcss\bundle\GetGit.WebApi.styles.css
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.CopyComplete
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\refint\GetGit.WebApi.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.genruntimeconfig.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\ref\GetGit.WebApi.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.exe
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.deps.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.runtimeconfig.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Application.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Domain.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Persistance.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Application.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Persistance.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Domain.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.AssemblyReference.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.AssemblyInfoInputs.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.AssemblyInfo.cs
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.RazorAssemblyInfo.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.RazorAssemblyInfo.cs
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.GetGit.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GetGit.WebApi.props
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GetGit.WebApi.props
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GetGit.WebApi.props
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\scopedcss\bundle\GetGit.WebApi.styles.css
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.CopyComplete
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\refint\GetGit.WebApi.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.genruntimeconfig.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\ref\GetGit.WebApi.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\appsettings.json
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.exe
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.deps.json
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.runtimeconfig.json
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.WebApi.pdb
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Application.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Domain.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Persistance.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Application.pdb
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Persistance.pdb
+D:\GetGit\GetGit.Backend\GetGit.WebApi\bin\Debug\net7.0\GetGit.Domain.pdb
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.AssemblyReference.cache
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.AssemblyInfoInputs.cache
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.AssemblyInfo.cs
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.CoreCompileInputs.cache
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.RazorAssemblyInfo.cache
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.RazorAssemblyInfo.cs
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.GetGit.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GetGit.WebApi.props
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GetGit.WebApi.props
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GetGit.WebApi.props
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\scopedcss\bundle\GetGit.WebApi.styles.css
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.csproj.CopyComplete
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\refint\GetGit.WebApi.dll
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.pdb
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\GetGit.WebApi.genruntimeconfig.cache
+D:\GetGit\GetGit.Backend\GetGit.WebApi\obj\Debug\net7.0\ref\GetGit.WebApi.dll

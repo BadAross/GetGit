@@ -1,0 +1,51 @@
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.deps.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Application.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Domain.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Application.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Domain.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.AssemblyReference.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.AssemblyInfoInputs.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.AssemblyInfo.cs
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.CoreCompileInputs.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.CopyComplete
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\refint\GetGit.Persistance.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\ref\GetGit.Persistance.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.deps.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Application.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Domain.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Application.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Domain.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.AssemblyReference.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.AssemblyInfoInputs.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.AssemblyInfo.cs
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.CopyComplete
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\refint\GetGit.Persistance.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\ref\GetGit.Persistance.dll
+D:\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.deps.json
+D:\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.dll
+D:\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Persistance.pdb
+D:\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Application.dll
+D:\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Domain.dll
+D:\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Application.pdb
+D:\GetGit\GetGit.Backend\GetGit.Persistance\bin\Debug\net7.0\GetGit.Domain.pdb
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.AssemblyReference.cache
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.AssemblyInfoInputs.cache
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.AssemblyInfo.cs
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.CoreCompileInputs.cache
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.csproj.CopyComplete
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.dll
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\refint\GetGit.Persistance.dll
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\GetGit.Persistance.pdb
+D:\GetGit\GetGit.Backend\GetGit.Persistance\obj\Debug\net7.0\ref\GetGit.Persistance.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8FPtLUoBUfHxxUOvwm8HWwYOWYyFCsK1ZLzIvLgfd50=",
+  "Source": "GetGit.WebApi",
+  "BasePath": "_content/GetGit.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

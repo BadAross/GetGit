@@ -1,0 +1,45 @@
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.deps.json
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.AssemblyReference.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.AssemblyInfoInputs.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.AssemblyInfo.cs
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.CoreCompileInputs.cache
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\refint\GetGit.Application.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\ref\GetGit.Application.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.AssemblyReference.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.AssemblyInfoInputs.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.AssemblyInfo.cs
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.CoreCompileInputs.cache
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\refint\GetGit.Application.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.deps.json
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Domain.dll
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Domain.pdb
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.CopyComplete
+D:\Coding\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\ref\GetGit.Application.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Domain.dll
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Domain.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.CopyComplete
+D:\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.deps.json
+D:\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.dll
+D:\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Application.pdb
+D:\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Domain.dll
+D:\GetGit\GetGit.Backend\GetGit.Application\bin\Debug\net7.0\GetGit.Domain.pdb
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.AssemblyReference.cache
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.AssemblyInfoInputs.cache
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.AssemblyInfo.cs
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.CoreCompileInputs.cache
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.csproj.CopyComplete
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.dll
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\refint\GetGit.Application.dll
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\GetGit.Application.pdb
+D:\GetGit\GetGit.Backend\GetGit.Application\obj\Debug\net7.0\ref\GetGit.Application.dll
